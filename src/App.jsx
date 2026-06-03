@@ -21,7 +21,6 @@ export default function App() {
           <Route path="/about" element={<About />} />
 
           <Route path="/courses" element={<Courses />} />
-
           {/* Course Details Page */}
           <Route path="/courses/:id" element={<CourseDetails />} />
 
