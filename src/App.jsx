@@ -4,7 +4,7 @@ import Footer from "./components/Footer.jsx";
 
 import Home from "./pages/Home.jsx";
 import About from "./pages/About.jsx";
-import Courses from "./pages/courses.jsx";
+import Courses from "./pages/Courses.jsx";
 import CourseDetails from "./pages/CourseDetails.jsx";
 import Contact from "./pages/Contact.jsx";
 import Enroll from "./pages/Enroll.jsx";
